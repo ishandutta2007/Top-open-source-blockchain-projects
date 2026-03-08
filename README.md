@@ -18,6 +18,8 @@ A curated list of the most popular open-source blockchain projects on GitHub, ra
 | [Monero](https://github.com/monero-project/monero) | 10.2k | C++ | A secure, private, untraceable cryptocurrency. |
 | [Chia Blockchain](https://github.com/Chia-Network/chia-blockchain) | 10.7k | Python | A new blockchain and smart transaction platform that is easier to use, more efficient, and secure. |
 
+| [RustChain](https://github.com/Scottcjn/Rustchain) | 0.1k | Python | Proof-of-Antiquity blockchain — vintage hardware earns higher mining rewards. Fair launch, on-chain agent economy. |
+
 ### ✨ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Top-open-source-blockchain-projects&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Top-open-source-blockchain-projects&type=date&legend=top-left)
